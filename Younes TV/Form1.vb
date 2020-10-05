@@ -98,7 +98,7 @@ Public Class Form1
     End Sub
 Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
-    Dim URL As String = "http://younestv.c1.biz/update.txt"
+        Dim URL As String = "Add your url to update your program"
     Dim wc As New WebClient
     Dim x As String = ""
 
